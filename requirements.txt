@@ -1,0 +1,2 @@
+
+git+https://github.com/barobba/your-app-webapi-client.git#egg=your-app-webapi-client
